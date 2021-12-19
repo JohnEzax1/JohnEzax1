@@ -1,4 +1,3 @@
-- Hi, I'm John
-- I like to code but only know how to code for FNF mods and even that I'm not good at
-- I am always bored so please give me a mod to work on
-- I listen to music constantly so please give me songs to listen to
+-Hi I'm John Ezax
+-I like to code 👍
+-And I like music
